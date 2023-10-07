@@ -1,0 +1,1 @@
+Project practicing the basics of HTML learned in the first few chapters of The Odin Project
